@@ -2,6 +2,8 @@
 
 Minecraft data pack for a handful of custom recipes.
 
+To install, put the [JCR.zip](JCR.zip) file in the [`datapacks`](https://minecraft.wiki/w/Data_pack) folder of your Minecraft world.
+
 ## Bone
 
 ![Bone recipe](images/bone.png)
