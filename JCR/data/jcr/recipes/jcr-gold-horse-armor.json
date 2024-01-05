@@ -1,0 +1,28 @@
+{
+    "category": "equipment",
+    "key": {
+        "1": {
+            "item": "minecraft:gold_ingot"
+        },
+        "2": {
+            "item": "minecraft:iron_nugget"
+        },
+        "3": {
+            "tag": "minecraft:wool"
+        },
+        "4": {
+            "item": "minecraft:string"
+        }
+    },
+    "pattern": [
+        "  1",
+        "111",
+        "234"
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:golden_horse_armor"
+    },
+    "show_notification": false,
+    "type": "minecraft:crafting_shaped"
+}
