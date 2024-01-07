@@ -31,3 +31,7 @@ Any type of wool.
 ![Diamond Horse Armor recipe](images/diamondhorsearmor.png)
 
 Any type of wool.
+
+## Slime Block
+
+Recipe: Cactus, bone meal, and honeycomb down the middle; leaves on either side.
